@@ -5,7 +5,7 @@
 This Python program provides an interactive visualizer for different sorting algorithms. With this tool, you can visualize the sorting process step by step, allowing for a deeper understanding of how sorting algorithms work. More sorting algorithms can be easily added due to the dynamic structure of the program so long as they are in place sorting algorithms.
 ## Features
 
-- Visualization of Insertion Sort and Bubble Sort algorithms.
+- Visualization of Insertion Sort, Bubble Sort, and Quick Sort algorithms.
 - Sort data in ascending or descending order.
 - Reset functionality to start over or change the sorting algorithm.
 - Interactive interface for easy navigation.
